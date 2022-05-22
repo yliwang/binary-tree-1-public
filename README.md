@@ -10,3 +10,5 @@ for the following binary tree, it returns 3
   *    *
  and etc. 
  
+ only leafnode.c is taken for grading, though you can submit all source files.
+ 
